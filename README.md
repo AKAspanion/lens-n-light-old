@@ -2,4 +2,4 @@
 A photography showcase website/portfolio for Amit Kumar Sahoo.
 
 Check out the site here.
-http://www.amitsahoophotography.xyz/
+https://akaspanion.github.io/lens-n-light-old/
